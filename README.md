@@ -4,10 +4,10 @@ This project consists for the following stages:
 The objective of this stage is to detect the appearance of the particle Z boson, determine its mass and reconstruct the parameters of its decay. 
 
 This stages includes:
-*  Problem describtion
-*  Computing the invariant mass
-*  Detecting the existance of Z boson
-*  Using Bayesian optimization to determine the parameters of Z boson decay
+1. Problem describtion
+2. Computing the invariant mass
+3. Detecting the existance of Z boson
+4. Using Bayesian optimization to determine the parameters of Z boson decay
 ## 2- Identifying the Particles Types Created in LHC
 The aim of this stage is to identify the type of particles created by the collisions of the accelorated protons in LHC. We use the responses of various detector system to classify the particles into six particle types (Electron, Proton, Muon, Pion, Kaon, Ghost or noise)
 
