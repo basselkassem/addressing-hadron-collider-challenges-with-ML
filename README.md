@@ -1,5 +1,5 @@
 # addressing-hadron-collider-challenges-with-ML
-This project consists of 5 stages:
+This project consists for the following stages:
 ## 1- Detecting Z Boson
 The objective of this stage is to detect the appearance of the particle Z boson, determine its mass and reconstruct the parameters of its decay. 
 
