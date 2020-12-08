@@ -28,3 +28,13 @@ This stage includes:
 4. Feature engineering
 5. Modeling
 6. Model Evaluation
+## 4- Bayesian Optimization of LHC detector
+We aim in this project to use machine learning methods to optimize the LHC detector structure in a way that maximizes its ability to detect the charactristics of the particles that fly through it.
+
+This stage includes:
+
+1.  Problem description
+2.  Detector simulation
+3.  Random optimization of the detector
+4.  Bayesian optimization of the detector
+5.  Comparing results
